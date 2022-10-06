@@ -18,7 +18,7 @@
 
 **Algorithm:** Linear Regression
 
-**Libraries:** Pandas, NumPy
+**Libraries:** Pandas, NumPy, sklearn
 
 **Projects:** Loan Prection
 
