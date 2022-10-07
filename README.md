@@ -16,7 +16,7 @@
 
 **Purpose:** Data Cleaning, Apply Algorithm
 
-**Algorithm:** Linear Regression
+**Algorithm:** Logistic Regression
 
 **Libraries:** Pandas, NumPy, sklearn
 
