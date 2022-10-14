@@ -18,7 +18,7 @@
 
 **Algorithm:** Logistic Regression
 
-**Libraries:** Pandas, NumPy, sklearn
+**Libraries:** Pandas, NumPy, Scikit-Learn
 
 **Projects:** Loan Prection
 
@@ -28,11 +28,6 @@
 **Reference:**  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project03_Loan_Prediction/main/dataset/loan.csv">Dataset.csv</a>  
 Demo:<a href="https://github.com/bdfd/Portfolio_Project03_Loan_Prediction/blob/main/Loan_Prediction.ipynb">Jupyter Notebook/Colab Link</a>
-
-<!-- Demo:<a href="Youtube Link">Demo Website Link</a> -->
-<!-- Reference:
-- <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
-- <a href="https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">Orginal Video Source Link</a> -->
 <br>
 
 <div align="center">
